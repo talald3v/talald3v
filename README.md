@@ -8,14 +8,14 @@
 ```javascript
 const talal = {
     contact: "talaldev@protonmail.com",
-    code: ["Javascript", "Java", "Python", "php"],
-    learning: ["React.js"],
-    askMeAbout: ["web dev", "tech", "linux"],
+    code: ["Javascript", "Java", "Python", "PHP"],
+    learning: ["React.js", "Vue.js", "Svelte.js"],
+    askMeAbout: ["web dev", "tech", "linux", "cybersecurity"],
     technologies: {
         backEnd: {
-            python: ["django"]
+            python: ["Django"]
         },
-        databases: ["PostgreSQL", "MySql", "sqlite"],
+        databases: ["PostgreSQL", "MySQL", "SQLite"],
     },
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
