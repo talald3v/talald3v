@@ -1,7 +1,7 @@
 ### Hi there 👋 i'am Talal
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-talal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/talal-abdallah-51278a216/)](https://www.linkedin.com/in/talal-abdallah-51278a216/)
-![GitHub followers](https://img.shields.io/github/followers/tnax01?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/arashi-u?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=arashi-u.arashi-u)
 
 ```javascript
