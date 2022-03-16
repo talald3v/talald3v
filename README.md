@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/arashi-u/arashi-u/master/header.png">
+<img src="https://raw.githubusercontent.com/talald3v/talald3v/master/header.png">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&width=900&lines=A+software+developer+%2F+CyberSecurity+enthusiast;HTML+is+!(a+programming+language);I+use+arch+btw!)](https://git.io/typing-svg)
 
@@ -6,9 +6,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talal-abdallah-51278a216/)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:talaldev@protonmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arashi_u)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_arashi_u_)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/talaldev_)
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-2A2B40?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://freecodecamp.org/_talal)
-![GitHub followers](https://img.shields.io/github/followers/arashi-u?label=Follow&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/talald3v?label=Follow&style=for-the-badge)
 
 ##
 
@@ -50,4 +50,4 @@
 ![BlackArch](https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=arch-linux&logoColor=F70F0F)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=arashi-u&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark)]()
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=talald3v&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark)]()
