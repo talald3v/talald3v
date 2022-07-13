@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/u32i/u32i/master/header.png">
+<img src="https://raw.githubusercontent.com/maborosh1/maborosh1/master/header.png">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&width=900&lines=A+software+developer+%2F+CyberSecurity+enthusiast;HTML+is+!(a+programming+language);I+use+arch+btw!)](https://git.io/typing-svg)
 
@@ -40,4 +40,4 @@
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=u32i&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark)]()
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=maborosh1&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark)]()
