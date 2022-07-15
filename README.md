@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&width=900&lines=A+software+developer+%2F+CyberSecurity+enthusiast)](https://git.io/typing-svg)
 
 ### Feel free to reach me @
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talal-abdallah-51278a216/)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:talaldev@protonmail.com)
 
 ##
